@@ -1,0 +1,6 @@
+{
+  "name": "Glow & Glow | Handmade Candles",
+  "description": "Artisanal, scented, and customized handmade candles created specially for your celebrations, gifts, and beautiful homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
